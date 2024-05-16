@@ -1,0 +1,6 @@
+[xtl]
+git-tree-sha1 = "fbd6b0135416a038db8ba94ca2bb0b02d8bdf547"
+
+    [[xtl.download]]
+    sha256 = "3ab73bf24f35e5dd601168725c515c0befe4660343fb47aeb421c4cfc6d9df3a"
+    url = "https://github.com/JuliaBinaryWrappers/xtl_jll.jl/releases/download/xtl-v0.7.7+0/xtl.v0.7.7.any.tar.gz"
